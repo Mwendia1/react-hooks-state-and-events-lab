@@ -13,6 +13,8 @@ function App() {
   function handleToggle(){
     setIsDarkMode((prevMode)=> !prevMode);
   }
+     <button id="#Home">Home</button>
+    
 
   
   return (
